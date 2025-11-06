@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minAppVersion": "1.0.0",
     "fallbackMessage": "No streams available. Please try again later.",
     "sources": [
@@ -20,9 +20,12 @@
             "headers": {},
             "timeout": 30,
             "retries": 2,
-            "customParams": {
-              
-            }
+           "customParams": {
+                "header_Referer": "https://xprime.tv",
+                "header_Origin": "https://xprime.tv",
+                "custom_option": "value",
+                "enable_feature": "true"
+              }
           }
         ]
       }
