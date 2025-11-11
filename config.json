@@ -7,9 +7,9 @@
    
     "fallbackMessage": "No streams available. Please try again later.",
     "downloadUrls": {
-      "pstream": "",
-      "xprime": "",
-      "default": ""
+      "pstream": "https://github.com/afyef/XP-App/releases/tag/v1.0.2",
+      "xprime": "https://github.com/afyef/XP-App/releases/tag/v1.0.2",
+      "default": "https://github.com/afyef/XP-App/releases/tag/v1.0.2"
     },
   "changelog": {
   "version": "1.0.2",
