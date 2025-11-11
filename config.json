@@ -1,7 +1,37 @@
-{
+
+  {
     "version": "1.0.1",
-    "minAppVersion": "1.0.1",
+    "minAppVersion": "1.0.0",
+    "updateMessage": "New features and critical bug fixes!",
+    "forceUpdate": true,
     "fallbackMessage": "No streams available. Please try again later.",
+    "downloadUrls": {
+      "pstream": "",
+      "xprime": "",
+      "default": ""
+    },
+    "changelog": {
+      "version": "1.0.1",
+      "releaseDate": "2025-01-11",
+      "sections": [
+        {
+          "title": "New Features",
+          "items": [
+            "Progress saving - Continue watching from where you left off (pstream accounts)",
+            "External subtitle support - Load subtitles from external sources",
+            "Embedded subtitle support - Play videos with built-in subtitles",
+            "Info button in player - View episode details and show information while watching"
+          ]
+        },
+        {
+          "title": "Bug Fixes",
+          "items": [
+            "Fixed audio continuing to play after exiting player",
+            "Audio now properly stops when app is closed or player is dismissed"
+          ]
+        }
+      ]
+    },
     "sources": [
       {
         "id": "xprime",
@@ -20,12 +50,10 @@
             "headers": {},
             "timeout": 30,
             "retries": 2,
-           "customParams": {
-                "header_Referer": "https://xprime.tv",
-                "header_Origin": "https://xprime.tv",
-                "custom_option": "value",
-                "enable_feature": "true"
-              }
+            "customParams": {
+              "header_Referer": "https://xprime.tv",
+              "header_Origin": "https://xprime.tv"
+            }
           }
         ]
       }
