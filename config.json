@@ -46,6 +46,7 @@
             "name": "Orbit",
             "enabled": true,
             "priority": 0,
+            "airplaySupported": false,
             "endpoint": "/orbit",
             "headers": {},
             "timeout": 30,
