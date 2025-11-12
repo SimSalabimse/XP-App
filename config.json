@@ -7,9 +7,9 @@
    
     "fallbackMessage": "No streams available. Please try again later.",
     "downloadUrls": {
-      "pstream": "https://github.com/afyef/XP-App/releases/tag/v1.0.2",
-      "xprime": "https://github.com/afyef/XP-App/releases/tag/v1.0.2",
-      "default": "https://github.com/afyef/XP-App/releases/tag/v1.0.2"
+      "pstream": "https://github.com/afyef/XP-App/releases/tag/v1.0.3",
+      "xprime": "https://github.com/afyef/XP-App/releases/tag/v1.0.3",
+      "default": "https://github.com/afyef/XP-App/releases/tag/v1.0.3"
     },
 "changelog": {
   "version": "1.0.3",
@@ -18,7 +18,7 @@
     {
       "title": "Bug Fixes",
       "items": [
-        "[#8] Update button not working as expected for some devices — Issued by @afyef. Fixed inconsistent behavior of the update button on certain iOS devices.",
+        "[#8] Update button not working as expected for some devices — Issued by @afyef. Fixed inconsistent behavior of the update button on certain iOS devices. (to be tested)",
         "[#7] Bookmark/List doesn’t work — Issued by @SimSalabimse. Fixed an issue preventing bookmarks and lists from being created or displayed properly."
       ]
     },
