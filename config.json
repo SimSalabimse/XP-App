@@ -1,6 +1,6 @@
 
   {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "minAppVersion": "1.0.0",
     "forceUpdateBelow": "1.0.1",
     "updateMessage": "New features and critical bug fixes!",
@@ -11,23 +11,21 @@
       "xprime": "https://github.com/afyef/XP-App/releases/tag/v1.0.2",
       "default": "https://github.com/afyef/XP-App/releases/tag/v1.0.2"
     },
-  "changelog": {
-  "version": "1.0.2",
-  "releaseDate": "2025-11-11",
+"changelog": {
+  "version": "1.0.3",
+  "releaseDate": "2025-11-12",
   "sections": [
     {
       "title": "Bug Fixes",
       "items": [
-        "[#3] Volume goes to max and delayed — Fixed an issue where the app volume would unexpectedly jump to maximum, respond with delay, and the slider would disappear unexpectedly.",
-        "[#2] Buttons off screen — Resolved black bar issues in landscape mode causing buttons to go off-screen.",
-        "[#1] Caching in XP tab broken — Fixed a caching issue that caused missing or outdated data in the XP tab."
+        "[#8] Update button not working as expected for some devices — Issued by @afyef. Fixed inconsistent behavior of the update button on certain iOS devices.",
+        "[#7] Bookmark/List doesn’t work — Issued by @SimSalabimse. Fixed an issue preventing bookmarks and lists from being created or displayed properly."
       ]
     },
     {
-      "title": "Improvements",
+      "title": "Enhancements",
       "items": [
-        "Optimized UI rendering performance.",
-        "Minor performance and stability enhancements."
+        "[#6] Set season as watched — Issued by @SimSalabimse. Added functionality to mark an entire season as watched."
       ]
     }
   ]
