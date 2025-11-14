@@ -1,32 +1,24 @@
 
   {
-    "version": "1.0.3",
+    "version": "1.0.5",
     "minAppVersion": "1.0.0",
     "forceUpdateBelow": "1.0.1",
     "updateMessage": "New features and critical bug fixes!",
    
     "fallbackMessage": "No streams available. Please try again later.",
  "downloadUrls": {
-  "pstream": "https://github.com/afyef/XP-App/releases/tag/v1.0.4",
-  "xprime": "https://github.com/afyef/XP-App/releases/tag/v1.0.4",
-  "default": "https://github.com/afyef/XP-App/releases/tag/v1.0.4"
+  "pstream": "https://github.com/afyef/XP-App/releases/tag/v1.0.5",
+  "xprime": "https://github.com/afyef/XP-App/releases/tag/v1.0.5",
+  "default": "https://github.com/afyef/XP-App/releases/tag/v1.0.5"
 },
 "changelog": {
-  "version": "1.0.4",
-  "releaseDate": "2025-11-12",
+  "version": "1.0.5",
+  "releaseDate": "2025-11-14",
   "sections": [
-    {
-      "title": "Bug Fixes",
-      "items": [
-        "[#11] Movie/show playtime line break issue — Issued by @SimSalabimse. Fixed layout inconsistencies affecting line breaks in movie/show playtime display.",
-        "[#10] Fix squarish purple block issue in intro scene — Issued by @afyef. Resolved visual glitch appearing as a purple fugly square during intro scenes."
-      ]
-    },
     {
       "title": "Enhancements",
       "items": [
-        "[#9] Add Logout feature by clicking the user icon in home — Issued by @afyef. Added an intuitive logout action accessible via the user icon on the home screen.",
-        "Save passphrase in iCloud Keychain — New feature enabling secure storage of user passphrases in iCloud Keychain for quick login."
+        "Added Search Functionality — Issued by @afyef. Introduced full in-app search capability for faster access to movies, shows, and features."
       ]
     }
   ]
