@@ -1,27 +1,30 @@
-
-  {
-    "version": "1.0.5",
-    "minAppVersion": "1.0.0",
-    "forceUpdateBelow": "1.0.1",
-    "updateMessage": "New features and critical bug fixes!",
-   
-    "fallbackMessage": "No streams available. Please try again later.",
- "downloadUrls": {
-  "pstream": "https://github.com/afyef/XP-App/releases/tag/v1.0.5",
-  "xprime": "https://github.com/afyef/XP-App/releases/tag/v1.0.5",
-  "default": "https://github.com/afyef/XP-App/releases/tag/v1.0.5"
-},
-"changelog": {
-  "version": "1.0.5",
-  "releaseDate": "2025-11-14",
-  "sections": [
-    {
-      "title": "Enhancements",
-      "items": [
-        "Added Search Functionality — Issued by @afyef. Introduced full in-app search capability for faster access to movies, shows, and features."
-      ]
-    }
-  ]
+{
+  "version": "1.0.6",
+  "minAppVersion": "1.0.0",
+  "forceUpdateBelow": "1.0.6",
+  "updateMessage": "Liquid Glass native tab view added and offline download functionality!",
+  
+  "fallbackMessage": "No streams available. Please try again later.",
+  
+  "downloadUrls": {
+    "pstream": "https://github.com/afyef/XP-App/releases/tag/v1.0.6",
+    "xprime": "https://github.com/afyef/XP-App/releases/tag/v1.0.6",
+    "default": "https://github.com/afyef/XP-App/releases/tag/v1.0.6"
+  },
+  
+  "changelog": {
+    "version": "1.0.6",
+    "releaseDate": "2025-11-16",
+    "sections": [
+      {
+        "title": "Enhancements",
+        "items": [
+          "Added Liquid Glass native tab view for home.",
+          "Offline Download functionality implemented."
+        ]
+      }
+    ]
+  }
 },
 
     "sources": [
