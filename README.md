@@ -6,24 +6,23 @@
 
 ## 🚧 Current Development
 
-**Platform:** iOS  
-**Language:** Native Swift  
+**Platforms:**  
+- **iOS (Swift)**  
+- **Android (Kotlin)**  
 
 ---
 
 ## 📱 Platforms
 
 - **iOS:** Built natively with **Swift**
+- **Android:** Built natively with **Kotlin**
 
 ---
 
 ## 🧭 Future Plans
 
-- **Android (Kotlin)**
 - **Desktop (Tauri)**
 - **Apple TV**
 - **Android TV**
 
 ---
-
-
