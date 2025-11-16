@@ -1,7 +1,7 @@
 {
     "version": "1.0.6",
     "minAppVersion": "1.0.0",
-    "forceUpdateBelow": "1.0.6",
+    "forceUpdateBelow": "1.0.5",
     "updateMessage": "Liquid Glass native tab view added and offline download functionality!",
     "fallbackMessage": "No streams available. Please try again later.",
     "downloadUrls": {
