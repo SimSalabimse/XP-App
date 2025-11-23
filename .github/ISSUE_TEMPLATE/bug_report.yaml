@@ -5,11 +5,11 @@ labels: []
 assignees: []
 
 body:
-  - type: dropdown
-    id: label
+  - type: checkboxes
+    id: labels
     attributes:
-      label: Issue Type
-      description: Select the most appropriate label for this issue.
+      label: Labels
+      description: Select all that apply
       options:
         - Android
         - bug
