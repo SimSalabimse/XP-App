@@ -11,14 +11,14 @@ body:
       label: Labels
       description: Select all that apply
       options:
-        - Android
-        - bug
-        - enhancement
-        - help wanted
-        - invalid
-        - iOS
-        - question
-        - UI Bug
+        - label: Android
+        - label: bug
+        - label: enhancement
+        - label: help wanted
+        - label: invalid
+        - label: iOS
+        - label: question
+        - label: UI Bug
     validations:
       required: true
 
