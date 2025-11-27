@@ -47,14 +47,11 @@ Provided by [@brohammy](https://github.com/brohammy)
 
 ## Screenshots
 
-## Home/Discovery
+#### Home and Content discovery
 <img src="https://github.com/user-attachments/assets/d79f1609-160a-4400-a182-6db17d75d231" height="500">
 
-Home and Content discovery
-
-## Media info and related movies and collections
+#### Media info and related movies and collections
 <img src="https://github.com/user-attachments/assets/a40a396c-4f29-436f-ae3c-c65d7cb725c7" height="500">
 
 <img src="https://github.com/user-attachments/assets/4859267d-4fe2-4311-87f0-c30dbbb00a98" height="500">
 
-*Find related content and collections*
