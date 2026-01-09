@@ -17,7 +17,7 @@ XP App has a vast library of movies and shows. Discorver new releases and your f
 ## 🚧 Current Development
 
 **Platforms:**  
-- **iOS (16-26)**  
+- **iOS 16-26**  
 - **Android**  
 
 ## 🧭 Future Plans
@@ -40,10 +40,10 @@ XP App has a vast library of movies and shows. Discorver new releases and your f
 --- 
 
 ## Installation Methods (iOS):
-
-
 ### Sideloading:
 If you are new to sideloading we recommended the use of SideStore [SideStore](https://docs.sidestore.io/docs/installation/prerequisites)
+
+Sources for iPA https://bughasrevenge.github.io/XpRepoTree/ provided by [@BugHasRevenge](https://github.com/BugHasRevenge)
 
 Requirements:
   - A computer running Windows 7 or higher, MacOS High Sierra or higher; only for initial install
